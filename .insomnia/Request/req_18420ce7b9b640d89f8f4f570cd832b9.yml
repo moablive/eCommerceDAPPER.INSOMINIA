@@ -1,23 +1,19 @@
-_id: req_ad525ec5dfb6461abee5c7ecbbfd688a
+_id: req_18420ce7b9b640d89f8f4f570cd832b9
 type: Request
 parentId: wrk_70be074a52504265a071fa9b88be4d97
-modified: 1693922992292
-created: 1693921097880
-url: https://localhost:44334/api/Usuarios
-name: GET
+modified: 1693922786236
+created: 1693922727419
+url: https://localhost:44334/api/Usuarios/2
+name: ID
 description: ""
 method: GET
-body:
-  mimeType: application/json
-  text: ""
+body: {}
 parameters: []
 headers:
-  - name: Content-Type
-    value: application/json
   - name: User-Agent
-    value: Insomnia/2023.5.6
+    value: Insomnia/2023.5.7
 authentication: {}
-metaSortKey: -1693921097880
+metaSortKey: -1693921097780
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

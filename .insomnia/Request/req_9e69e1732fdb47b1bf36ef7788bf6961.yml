@@ -1,12 +1,12 @@
-_id: req_ad525ec5dfb6461abee5c7ecbbfd688a
+_id: req_9e69e1732fdb47b1bf36ef7788bf6961
 type: Request
 parentId: wrk_70be074a52504265a071fa9b88be4d97
-modified: 1693922992292
-created: 1693921097880
-url: https://localhost:44334/api/Usuarios
-name: GET
+modified: 1693922900593
+created: 1693922866839
+url: https://localhost:44334/api/Usuarios/4
+name: DELETE
 description: ""
-method: GET
+method: DELETE
 body:
   mimeType: application/json
   text: ""
@@ -15,9 +15,9 @@ headers:
   - name: Content-Type
     value: application/json
   - name: User-Agent
-    value: Insomnia/2023.5.6
+    value: Insomnia/2023.5.7
 authentication: {}
-metaSortKey: -1693921097880
+metaSortKey: -1693921097580
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
