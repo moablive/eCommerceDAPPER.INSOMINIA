@@ -1,0 +1,27 @@
+_id: req_ad525ec5dfb6461abee5c7ecbbfd688a
+type: Request
+parentId: wrk_70be074a52504265a071fa9b88be4d97
+modified: 1693922251199
+created: 1693921097880
+url: https://localhost:44334/api/Usuarios
+name: GET Todos
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+authentication: {}
+metaSortKey: -1693921097880
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
