@@ -1,7 +1,7 @@
 _id: req_6420ce326c354b4d8f7a8312a1281ae5
 type: Request
 parentId: wrk_70be074a52504265a071fa9b88be4d97
-modified: 1693923001073
+modified: 1694011242905
 created: 1693922757004
 url: https://localhost:44334/api/Usuarios
 name: INSERT
@@ -10,10 +10,16 @@ method: POST
 body:
   mimeType: application/json
   text: |-
-    	{
-    		"nome": "Teste",
-    		"email": "teste@teste.com"
-    	}
+    {
+    	"nome": "TESTE",
+    	"email": "TESTE@TESTE",
+    	"sexo": "M",
+    	"rg": "0.000.000",
+    	"cpf": "000.000.000-00",
+    	"nomeMae": "TESTINA",
+    	"situacaoCadastro": "A",
+    	"dataCadastro": "2021-01-01T00:00:00-03:00"
+    }
 parameters: []
 headers:
   - name: Content-Type

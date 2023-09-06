@@ -1,7 +1,7 @@
 _id: req_cc51596915274feabf82167f53815244
 type: Request
 parentId: wrk_70be074a52504265a071fa9b88be4d97
-modified: 1693922970502
+modified: 1694012118002
 created: 1693922914662
 url: https://localhost:44334/api/Usuarios
 name: UPDATE
@@ -10,11 +10,17 @@ method: PUT
 body:
   mimeType: application/json
   text: |-
-    	{
-    		"id": 4,
-    		"nome": "Testitado",
-    		"email": "teste@teste.com"
-    	}
+    {	
+    	"id":13,
+    	"nome": "TESTE",
+    	"email": "NOVOEMAIL@TESTE",
+    	"sexo": "M",
+    	"rg": "0.000.000",
+    	"cpf": "000.000.000-00",
+    	"nomeMae": "TESTINA",
+    	"situacaoCadastro": "A",
+    	"dataCadastro": "2021-01-01T00:00:00-03:00"
+    }
 parameters: []
 headers:
   - name: Content-Type

@@ -1,9 +1,9 @@
 _id: req_9e69e1732fdb47b1bf36ef7788bf6961
 type: Request
 parentId: wrk_70be074a52504265a071fa9b88be4d97
-modified: 1693922900593
+modified: 1694012833731
 created: 1693922866839
-url: https://localhost:44334/api/Usuarios/4
+url: https://localhost:44334/api/Usuarios/14
 name: DELETE
 description: ""
 method: DELETE
